@@ -1,4 +1,4 @@
-from settings import *
+#from settings import *
 from linebot import LineBotApi,WebhookParser
 from linebot.models import *
 from sql import *
