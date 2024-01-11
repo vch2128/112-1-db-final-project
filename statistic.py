@@ -1,6 +1,6 @@
 from linebot import LineBotApi,WebhookParser
 from linebot.models import *
-from settings import *
+#from settings import *
 from sql import *
 import psycopg2
 import json
