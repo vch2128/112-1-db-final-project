@@ -3,7 +3,7 @@ from linebot import LineBotApi, WebhookParser,WebhookHandler
 from linebot.exceptions import InvalidSignatureError, LineBotApiError
 from linebot.models import*
 from intro import *
-from settings import *
+#from settings import *
 from user import *
 from diary import *
 from scale import *
